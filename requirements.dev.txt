@@ -8,6 +8,10 @@ pycodestyle==2.10.0
 pyflakes==3.0.1
 pytz==2022.7.1
 sqlparse==0.4.3
+<<<<<<< HEAD
 black==23.1.0
 #commit
 #change
+=======
+black
+>>>>>>> ddb37471566071207d077d532fbe8266a90ef67c
